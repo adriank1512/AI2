@@ -3,7 +3,7 @@ Solitaire Project for "Allgemeine Informatik II"
 
 Student Information:
 
-Full Name: Adrian Klute
+Full Name: Adrian 
 Matriculation Number: 2486622
 TU-ID: ak20paha
 
